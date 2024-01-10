@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: auto;
+  background-color: #f1f5f8;
+}
+
+.number {
+  color: #c20a72;
+}
+
+.heading {
+  color: #2d3a35;
+}
+
+.click-button {
+  border: 0px;
+  height: 30px;
+  color: #ffffff;
+  background-color: #007bff;
+}
